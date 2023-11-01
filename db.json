@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "name": "Jared Skiles",
+      "id": 4
+    },
+    {
+      "name": "Gretchen Walter",
+      "id": 9
+    },
+    {
+      "name": "Bertha Pouros",
+      "id": 10
+    },
+    {
+      "name": "Mr. Cameron Gerlach",
+      "id": 11
+    }
+  ],
+  "albums": [
+    {
+      "userId": 4,
+      "title": "Licensed Wooden Mouse",
+      "id": 13
+    },
+    {
+      "userId": 9,
+      "title": "Unbranded Bronze Bacon",
+      "id": 16
+    },
+    {
+      "userId": 9,
+      "title": "Gorgeous Metal Gloves",
+      "id": 17
+    },
+    {
+      "userId": 11,
+      "title": "Unbranded Wooden Shoes",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=702736444162048",
+      "id": 1
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4895078176784384",
+      "id": 2
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3786352017539072",
+      "id": 3
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4891546117734400",
+      "id": 4
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4135088967122944",
+      "id": 5
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1909656515510272",
+      "id": 6
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3838877095690240",
+      "id": 7
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6260076121686016",
+      "id": 8
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3373838358282240",
+      "id": 9
+    }
+  ]
+}
